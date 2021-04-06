@@ -1,0 +1,58 @@
+
+.page{
+    /*background: linear-gradient(to top, grey, 50%, rgb(21, 113, 171));*/
+    background-color: rgb(31, 198, 201);
+    background-repeat: no-repeat;
+}
+
+.shadowbox {
+    width: 100%;
+    text-align: center;
+  }
+.btnClasse{
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+}
+.btnRetour{
+    background-color: rgb(28, 153, 243);
+}
+
+.tabChampions td{
+    border: 1px solid;
+}
+.imageTd{
+    width: 200px;
+    height: 150px;
+}
+
+h1 {
+     text-align: center;
+ }
+
+td {
+     /*border: solid black 1px;*/
+     text-align: center;
+ }
+
+ tr{
+     width: 100%;
+ }
+
+.tabAragorn{
+    float: inline;
+}
+
+.tabBoromir{
+    
+}
+.tabGaren{
+
+}
+
+.tabRenekton{
+
+}
+.tabShen{
+
+}
